@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_date" label="new_date" language="en" table="var__m_sys_hub_step_ext_output_71ca8a31db821010836d58b3ca961984">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_date</element>
+            <help/>
+            <hint/>
+            <label>new_date</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_71ca8a31db821010836d58b3ca961984</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-17 13:50:53</sys_created_on>
+            <sys_id>b1ca0a71db821010836d58b3ca96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>new_date</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_501326_needit_sp">c42042f5db421010836d58b3ca9619d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">c42042f5db421010836d58b3ca9619d3</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_71ca8a31db821010836d58b3ca961984_new_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-17 13:50:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
